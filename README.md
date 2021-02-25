@@ -1,1 +1,1 @@
-# wp_lawfirm
+A sample wordpress theme for a lawfirm
